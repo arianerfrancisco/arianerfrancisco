@@ -36,6 +36,6 @@
     
 </div>
   
- Thanks for visiting 
+Obrigada pela visita!
 
    
