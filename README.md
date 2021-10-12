@@ -1,7 +1,15 @@
-### Olá! 👋 Eu sou a **Ariane Rocha**
+### Olá! 👋 
 ###
 ###
-
+({
+    name: 'Ariane Rocha',
+    age: 30,
+    system_operation: Windows',
+    city: 'Londrina, PR',
+    database: ['MySQL'],
+    know: ['JavaScript', 'Java', 'Node.js', 'HTML', 'CSS', 'Python' ]
+    
+  });
 
 
 - 🌱 Atualmente estudo: Java;
