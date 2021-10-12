@@ -1,15 +1,17 @@
 ### Olá! 👋 
-###
-###
-({
+
+  
+```javascript
+  async user.index({
     name: 'Ariane Rocha',
     age: 30,
-    system_operation: Windows',
     city: 'Londrina, PR',
-    database: ['MySQL'],
+    database:  ['MySQL'],
     know: ['JavaScript', 'Java', 'Node.js', 'HTML', 'CSS', 'Python' ]
-    
   });
+  
+  return response.status(201).send();
+```
 
 
 - 🌱 Atualmente estudo: Java;
