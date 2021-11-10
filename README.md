@@ -1,19 +1,5 @@
 ### Hello World! 👋 
 
-  
-```javascript
-  async user.index({
-    name: 'Ariane Rocha',
-    age: 30,
-    city: 'Londrina, PR',
-    database:  ['MySQL'],
-    know: ['JavaScript', 'Java', 'Node.js', 'HTML', 'CSS', 'Python' ]
-  });
-  
-  return response.status(201).send();
-```
-
-
 - 🌱 Atualmente estudo: Java;
 - 📜 Me aperfeiçoando em: JS, CSS, HTML,NODE.JS PYTHON E MYSQL;
 - 📫 Contate-me no email: arianerocha4@hotmail.com
