@@ -26,6 +26,7 @@
 
 </div>
   
-Obrigada pela visita!
+< div> 
+  Obrigada pela visita!
 
-   
+</div> 
