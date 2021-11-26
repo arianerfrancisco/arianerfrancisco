@@ -3,7 +3,7 @@
 - 🌱 Atualmente estudo: Java;
 - 📜 Me aperfeiçoando em: JS, CSS, HTML,NODE.JS PYTHON E MYSQL;
 - 📫 Contate-me no email: arianerocha4@hotmail.com
-- 📫 Linkedin: www.linkedin.com/in/ariane-rocha-112430ab
+- 📫 [Meu Linkedin:](www.linkedin.com/in/ariane-rocha-112430ab)
 
 <div align="center">
   <a href="https://github.com/arianerfrancisco">
