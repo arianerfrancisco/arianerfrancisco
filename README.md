@@ -18,7 +18,7 @@
   <img align="center" alt="Ariane-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ariane-MySql" height="40" width="50" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img align="center" alt="Ariane-Node" height="40" width="50" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
-  <img align="right" alt="Ariane-MySql" height="180" width="250" src="https://media.giphy.com/media/YmbxC8Bkj9bZ4yu4Le/giphy.gif"> 
+  <img align="right" alt="Ariane-MySql" height="180" width="250" src="https://media.giphy.com/media/EcqCKYnrHiAgwpGqme/giphy.gif"> 
   
   
 ##
