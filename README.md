@@ -22,10 +22,9 @@
   <img align="right" alt="Ariane-MySql" height="180" width="250" src="https://media.giphy.com/media/EcqCKYnrHiAgwpGqme/giphy.gif"> 
   
   
-##
 
 
 </div>
   
-Obrigada pela visita!
+
 
