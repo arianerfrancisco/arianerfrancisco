@@ -1,4 +1,4 @@
-### Hello World! 👋 
+Hello World! 👋 
 
 - 🌱 Atualmente estudo: Java;
 - 📜 Me aperfeiçoando em: JS, CSS, HTML,NODE.JS PYTHON E MYSQL;
