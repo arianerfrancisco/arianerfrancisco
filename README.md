@@ -1,8 +1,14 @@
-Hello World! 👋 
+<h4 align="center">
+ 
+![c633cg5VP6dWtBCtWWoGMuLKRYeSUKAr86Z3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-- ✉ Contate-me no email: arianerocha4@hotmail.com
-- 📫 Meu Linkedin: www.linkedin.com/in/ariane-rocha-112430ab
-- 🧐 Meu portfólio: https://arianerfrancisco.github.io/Portfolio-/
+ Olá, é um enorme prazer ter voce em meu Github!
+   
+      Seja bem vindo (a)! 👋 
+
+✉ Contate-me no email: arianerocha4@hotmail.com
+
+📫 Meu Linkedin: www.linkedin.com/in/ariane-rocha-112430ab
 
 
 <div align="center">
