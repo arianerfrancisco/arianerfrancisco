@@ -2,7 +2,7 @@
  
 ![c633cg5VP6dWtBCtWWoGMuLKRYeSUKAr86Z3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
- Olá, é um enorme prazer ter voce em meu Github!
+ Olá, é um enorme prazer ter você em meu Github!
    
       Seja bem vindo (a)! 👋 
 
