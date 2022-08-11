@@ -6,9 +6,9 @@
    
       Seja bem vindo (a)! 👋 
 
-✉ Contate-me no email: arianerocha4@hotmail.com
+✉ E-mail: arianerocha4@hotmail.com
 
-📫 Meu Linkedin: www.linkedin.com/in/ariane-rocha-112430ab
+📫 Linkedin: www.linkedin.com/in/ariane-rocha-112430ab
 
 
 <div align="center">
