@@ -2,9 +2,7 @@
  
 ![c633cg5VP6dWtBCtWWoGMuLKRYeSUKAr86Z3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
- Olá, é um enorme prazer ter você em meu Github! Busco aprender cada vez mais e através dos meus conhecimentos mergulhar no mundo da tecnologia. Já atuei por 6 anos como Suporte em TI e ingressei profundamente no mundo da programação em 2021. Atuo como Trainee na TCS, com foco em DevOps/AWS. Mas estou fortemente focada em Java e C#/.NET.
-Conhecimentos principais: Java, Spring Boot; Docker; Métodos ágeis, MySQL, Junit e GIT.
-Conhecimentos em desenvolvimento: AWS; Cultura DevOps e C#/.NET.
+ Olá, é um enorme prazer ter você em meu Github! 
    
       Seja bem vindo (a)! 👋 
 
