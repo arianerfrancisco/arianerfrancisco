@@ -1,7 +1,4 @@
 
-<h2 align="center">"É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada!!"</h2>
-<h4 align="center">
-
 ![c633cg5VP6dWtBCtWWoGMuLKRYeSUKAr86Z3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
  Olá, é um enorme prazer ter você em meu Github! 
